@@ -6,7 +6,7 @@
 # connection: local
 
   tasks:
-  - name: Print debug message
+  - name: Print debug
     ansible.builtin.debug:
       msg: Hello, world!
 
